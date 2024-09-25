@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Olá, sou Pierre!
+🚀 DevOps Engineer com sólida experiência em automação de infraestrutura, CI/CD, cloud computing (AWS) e orquestração de containers. Apaixonado por otimizar fluxos e garantir a alta disponibilidade e performance de sistemas complexos.
 
-<!--
-**pierrekz2/pierrekz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente cursando pós-graduação em DevOps & Continuous Software Engineering na PUC Minas e me preparando para a certificação AWS Solutions Architect - Associate.
 
-Here are some ideas to get you started:
+🔧 Habilidades Técnicas
+AWS Terraform Docker Kubernetes GitHub Jenkins Nginx MariaDB PostgreSQL Redis Zabbix Grafana Python Bash Git Elasticsearch Linux
+📚 Estudos Atuais
+🎓 Pós-graduação em DevOps & Continuous Software Engineering
+🏆 Preparação para a certificação AWS Solutions Architect - Associate
+📖 Estudos constantes sobre Kubernetes, CI/CD e Infrastructure as Code
+📫 Vamos nos conectar?
+LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Curiosidades sobre mim
+🎮 Gosto de games e tecnologia.
+⚽ Sou apaixonado por futebol.
+🚗 Entusiasta de carros.
+👨‍👦 Pai do Lorenzo, sempre em busca de criar um mundo tecnológico para ele!
