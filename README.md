@@ -17,6 +17,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zabbix_logo_square.svg" alt="Zabbix" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40" />
     <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="Bash" width="40" height="40" />
     <img src="https://cdn.confluent.io/wp-content/uploads/apache-kafka-icon-2021-e1638496305992.jpg" alt="Kafka Connect" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40" />
