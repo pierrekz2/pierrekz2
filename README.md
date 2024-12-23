@@ -1,6 +1,8 @@
 ## 👋 Olá, sou Pierre!
 
 🚀 DevOps Engineer com sólida experiência em automação de infraestrutura, CI/CD, cloud computing (AWS) e orquestração de containers. Apaixonado por otimizar fluxos e garantir a alta disponibilidade e performance de sistemas complexos.
+
+*Certificado Linux Professional Institute*
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://www.certificacaolinux.com.br/wp-content/uploads/2019/04/linux-essentials.jpg.webp" alt="LPI essentials" width="40" height="40" />
 </div>
