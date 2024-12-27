@@ -43,7 +43,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierre-henrique-a92677145/)
 
 ## ⚡ Curiosidades sobre mim
-- 🎮 Gosto de games e tecnologia.
+- 🎮 Apreciador de games e tecnologia.
 - ⚽ Apaixonado por futebol.
 - 🚗 Entusiasta de carros.
 - 👨‍👦 Pai do Lorenzo, sempre em busca de criar um mundo tecnológico para ele!
