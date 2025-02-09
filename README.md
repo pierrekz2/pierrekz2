@@ -28,7 +28,7 @@
     <img src="https://cdn.confluent.io/wp-content/uploads/apache-kafka-icon-2021-e1638496305992.jpg" alt="Kafka Connect" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40" />
-    <img src="https://hubsoft.io/wp-content/webp-express/webp-images/uploads/elementor/thumbs/logo-olt-6-qxeckqgzbgdu0flrggnq98lhqaiujiaz7g3zpmrrc4.png.webp" alt="Ubiquiti" width="40" height="40" />
+    <img src="https://media.licdn.com/dms/image/v2/C560BAQEY82Lg2g7ebQ/company-logo_200_200/company-logo_200_200/0/1672723177404/ubiquiti__logo?e=1747267200&v=beta&t=3fwJ-g-m16mGmvJDpM5f2eV7S2UqN74nKWne51MmOWU" alt="Ubiquiti" width="40" height="40" />
     <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHv7yIWJEYuMQ/company-logo_200_200/company-logo_200_200/0/1721680122463/konghq_logo?e=1744243200&v=beta&t=Cq-HA-HSGeJgAaVDGA8UVWopyJsM-Q07gZEgWdJLIDw" alt="Kong" width="40" height="40" />
 </div>
 
