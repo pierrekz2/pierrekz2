@@ -28,7 +28,7 @@
     <img src="https://cdn.confluent.io/wp-content/uploads/apache-kafka-icon-2021-e1638496305992.jpg" alt="Kafka Connect" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40" />
-    <img src="https://media.licdn.com/dms/image/v2/C560BAQEY82Lg2g7ebQ/company-logo_200_200/company-logo_200_200/0/1672723177404/ubiquiti__logo?e=1747267200&v=beta&t=3fwJ-g-m16mGmvJDpM5f2eV7S2UqN74nKWne51MmOWU" alt="Ubiquiti" width="40" height="40" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40israfaioli%2Fguia-did%25C3%25A1tico-sobre-azure-devops-para-analistas-de-qualidade-qa-ecfc63c417d4&psig=AOvVaw09bVCeeZ96ItLUJZlyN_19&ust=1752951826273000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDI-siMx44DFQAAAAAdAAAAABAE" alt="Jira" width="40" height="40" />
 </div>
 
 
