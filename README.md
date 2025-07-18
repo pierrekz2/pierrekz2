@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Pierre!
 
-🚀 DevOps Engineer com sólida experiência em automação de infraestrutura, CI/CD, cloud computing (AWS) e orquestração de containers. Apaixonado por otimizar fluxos e garantir a alta disponibilidade e performance de sistemas complexos.
+🚀 DevOps Engineer com 12 anos de experiência em TI, graduado em Sistemas de Informação e pós-graduado em DevOps & Continuous Software Engineering com sólida habilidade em automação de infraestrutura, CI/CD, cloud computing (AWS/Azure) e orquestração de containers. Apaixonado por otimizar fluxos e garantir a alta disponibilidade e performance de sistemas complexos.
 
 🐧**Certificado Linux Professional Institute (LPI)**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
