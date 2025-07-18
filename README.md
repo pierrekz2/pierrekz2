@@ -34,8 +34,7 @@
 
 ## 📚 Estudos Atuais
 - 📖 Estudos constantes sobre Kubernetes, CI/CD e Infrastructure as Code
-- 🎓 Pós-graduação em DevOps & Continuous Software Engineering
-- 🏆 Preparação para a certificação AWS Solutions Architect - Associate
+- 🏆 Preparação para a certificação AWS SysOps Admin - Associate
 
 
 ## 📫 **Vamos nos conectar?**
