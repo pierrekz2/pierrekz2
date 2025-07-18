@@ -28,7 +28,7 @@
     <img src="https://cdn.confluent.io/wp-content/uploads/apache-kafka-icon-2021-e1638496305992.jpg" alt="Kafka Connect" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40" />
-    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*2Xt3M12GK4fbPO71.png" alt="Azure DevOps" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="Azure DevOps" width="40" height="40" />
 </div>
 
 
