@@ -1,13 +1,13 @@
-## 👋 Olá, sou Pierre!
+## 👋 Hello, I'm Pierre!
 
-🚀 DevOps Engineer com 12 anos de experiência em TI, graduado em Sistemas de Informação e pós-graduado em DevOps & Continuous Software Engineering com sólida habilidade em automação de infraestrutura, CI/CD, cloud computing (AWS/Azure) e orquestração de containers. Apaixonado por otimizar fluxos e garantir a alta disponibilidade e performance de sistemas complexos.
+🚀 DevOps Engineer with 12 years of experience in IT, holding a degree in Information Systems and a postgraduate degree in DevOps & Continuous Software Engineering. Strong expertise in infrastructure automation, CI/CD, cloud computing (AWS/Azure), and container orchestration. Passionate about optimizing workflows and ensuring high availability and performance for complex systems.
 
-🐧**Certificado Linux Professional Institute (LPI)**
+🐧 **Linux Professional Institute (LPI) Certified**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://www.certificacaolinux.com.br/wp-content/uploads/2019/04/linux-essentials.jpg.webp" alt="LPI essentials" width="40" height="40" />
 </div>
 
-## 🔧 **Habilidades Técnicas**
+## 🔧 **Technical Skills**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://d1.awsstatic.com/uki-digital-marketing-content-directory/AWS%20logo.884800f1674e960b6134af7340ac45ab21d99682.png" alt="AWS" width="40" height="40" />
@@ -32,17 +32,18 @@
 </div>
 
 
-## 📚 Estudos Atuais
-- 📖 Estudos constantes sobre Kubernetes, CI/CD e Infrastructure as Code
-- 🏆 Preparação para a certificação AWS SysOps Admin - Associate
+## 📚 Current Studies
+- 📖 Ongoing learning on Kubernetes, CI/CD, and Infrastructure as Code
+- 🏆 Preparing for the AWS SysOps Administrator – Associate certification
 
-
-## 📫 **Vamos nos conectar?**
+## 📫 **Let's Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierre-henrique-a92677145/)
 
-## ⚡ Curiosidades sobre mim
-- 🎮 Apreciador de games e tecnologia.
-- ⚽ Apaixonado por futebol.
-- 🚗 Entusiasta de carros.
-- 👨‍👦 Pai do Lorenzo, sempre em busca de criar um mundo tecnológico para ele!
+## ⚡ Fun Facts About Me
+- 🎮 Passionate about video games and technology.
+- ⚽ Avid football fan.
+- 🚗 Automotive enthusiast.
+- 👨‍👦 Proud father of Lorenzo, committed to creating a tech-driven and inspiring world for him.
+
+
