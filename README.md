@@ -4,11 +4,11 @@
 
 ## 🏆 **Certifications**
 
-🐧 **Linux Professional Institute (LPI) Certified**
+🐧 Linux Professional Institute (LPI) Certified
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://www.certificacaolinux.com.br/wp-content/uploads/2019/04/linux-essentials.jpg.webp" alt="LPI essentials" width="40" height="40" />
 </div>
-☁️ **AWS Certified Cloud Practitioner (AWS CCP) Certified**
+☁️ AWS Certified Cloud Practitioner (AWS CCP) Certified
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS" width="40" height="40" />
 </div>
