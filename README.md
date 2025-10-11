@@ -40,7 +40,7 @@
 
 ## 📚 Current Studies
 - 📖 Ongoing learning on Kubernetes, CI/CD, and Infrastructure as Code
-- 🏆 Preparing for the AWS SysOps Administrator – Associate certification
+- 🏆 Preparing for the AWS CloudOps Engineer – Associate certification
 
 ## 📫 **Let's Connect**
 
