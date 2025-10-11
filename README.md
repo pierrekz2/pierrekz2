@@ -2,9 +2,15 @@
 
 🚀 DevOps Engineer with 12 years of experience in IT, holding a degree in Information Systems and a postgraduate degree in DevOps & Continuous Software Engineering. Strong expertise in infrastructure automation, CI/CD, cloud computing (AWS/Azure), and container orchestration. Passionate about optimizing workflows and ensuring high availability and performance for complex systems.
 
+## 🏆 **Certifications**
+
 🐧 **Linux Professional Institute (LPI) Certified**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://www.certificacaolinux.com.br/wp-content/uploads/2019/04/linux-essentials.jpg.webp" alt="LPI essentials" width="40" height="40" />
+</div>
+☁️ **AWS Certified Cloud Practitioner (AWS CCP) Certified**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS" width="40" height="40" />
 </div>
 
 ## 🔧 **Technical Skills**
