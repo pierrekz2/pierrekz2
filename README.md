@@ -4,15 +4,14 @@
 
 ## 🎓 Education
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="25" />
-  <b>Bachelor’s Degree</b> in Information Systems<br>
-  <span style="margin-left: 32px;">Focused on Software Development, Networking, and Systems Administration.</span><br><br>
+## 🎓 Education
 
-  <img src="https://cdn-icons-png.flaticon.com/512/1377/1377554.png" width="25" />
-  <b>Postgraduate Certificate</b> in DevOps & Continuous Software Engineering<br>
-  <span style="margin-left: 32px;">Emphasis on CI/CD pipelines, Infrastructure as Code (IaC), Kubernetes, and Cloud Automation.</span>
-</p>
+- 🎓 **Bachelor’s Degree in Information Systems**  
+  Focused on Software Development, Networking, and Systems Administration.
+
+- ♾️ **Postgraduate Certificate in DevOps & Continuous Software Engineering**  
+  Emphasis on CI/CD pipelines, Infrastructure as Code (IaC), **Kubernetes**, and **Cloud Automation**.
+
 
 ## 🏆 **Certifications**
 
