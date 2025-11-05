@@ -4,7 +4,7 @@
 
 ## 🎓 **Education**
 
-🎓 **Bachelor’s Degree in Information Systems**  
+🧑🏻‍💻 **Bachelor’s Degree in Information Systems**  
   Focused on Software Development, Networking, and Systems Administration.
 
 ♾️ **Postgraduate Certificate in DevOps & Continuous Software Engineering**  
