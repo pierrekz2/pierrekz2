@@ -5,6 +5,7 @@
 ## 🎓 **Academical**
 
 🧑🏻‍💻 Bachelor's degree Information Systems
+
 ♾️ Postgraduate Certificate - Specialization Program DevOps & Continuous Software Engineering
 
 ## 🏆 **Certifications**
