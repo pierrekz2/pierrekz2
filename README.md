@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Pierre!
 
-🚀 DevOps Engineer with 12 years of experience in IT, holding a degree in Information Systems and a postgraduate degree in DevOps & Continuous Software Engineering. Strong expertise in infrastructure automation, CI/CD, cloud computing (AWS/Azure), and container orchestration. Passionate about optimizing workflows and ensuring high availability and performance for complex systems.
+🚀 DevOps Engineer with 13 years of experience in IT, holding a degree in Information Systems and a postgraduate degree in DevOps & Continuous Software Engineering. Strong expertise in infrastructure automation, CI/CD, cloud computing (AWS/Azure), and container orchestration. Passionate about optimizing workflows and ensuring high availability and performance for complex systems.
 
 ## 🏆 **Certifications**
 
