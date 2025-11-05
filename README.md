@@ -1,6 +1,11 @@
-## 👋 Hello, I'm Pierre!
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0b61b6ed-c585-44f3-8102-2557a835370a" />## 👋 Hello, I'm Pierre!
 
 🚀 DevOps Engineer with 13 years of experience in IT, holding a degree in Information Systems and a postgraduate degree in DevOps & Continuous Software Engineering. Strong expertise in infrastructure automation, CI/CD, cloud computing (AWS/Azure), and container orchestration. Passionate about optimizing workflows and ensuring high availability and performance for complex systems.
+
+## 🎓 **Academical**
+
+🧑🏻‍💻 Bachelor's degree Information Systems
+♾️ Postgraduate Certificate - Specialization Program DevOps & Continuous Software Engineering
 
 ## 🏆 **Certifications**
 
