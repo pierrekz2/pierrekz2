@@ -2,14 +2,12 @@
 
 🚀 DevOps Engineer with 13 years of experience in IT, holding a degree in Information Systems and a postgraduate degree in DevOps & Continuous Software Engineering. Strong expertise in infrastructure automation, CI/CD, cloud computing (AWS/Azure), and container orchestration. Passionate about optimizing workflows and ensuring high availability and performance for complex systems.
 
-## 🎓 Education
+## 🎓 **Education**
 
-## 🎓 Education
-
-- 🎓 **Bachelor’s Degree in Information Systems**  
+🎓 **Bachelor’s Degree in Information Systems**  
   Focused on Software Development, Networking, and Systems Administration.
 
-- ♾️ **Postgraduate Certificate in DevOps & Continuous Software Engineering**  
+♾️ **Postgraduate Certificate in DevOps & Continuous Software Engineering**  
   Emphasis on CI/CD pipelines, Infrastructure as Code (IaC), **Kubernetes**, and **Cloud Automation**.
 
 
