@@ -1,4 +1,3 @@
-<img width="512" height="512" alt="Pierre Henrique" src="https://github.com/user-attachments/assets/0b61b6ed-c585-44f3-8102-2557a835370a" />
 
 ## 👋 Hello, I'm Pierre!
 
@@ -21,10 +20,10 @@ Passionate about optimizing workflows and ensuring **high availability and perfo
 ## 🏆 Certifications
 
 - 🐧 **Linux Professional Institute (LPI) Certified**  
-  ![LPI essentials](https://www.certificacaolinux.com.br/wp-content/uploads/2019/04/linux-essentials.jpg.webp)
+  <img src="https://www.certificacaolinux.com.br/wp-content/uploads/2019/04/linux-essentials.jpg.webp" width="40" alt="lpi" />
 
 - ☁️ **AWS Certified Cloud Practitioner (AWS CCP)**  
-  ![AWS](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" alt="AWS" />
 
 ---
 
